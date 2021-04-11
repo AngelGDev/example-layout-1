@@ -36,9 +36,6 @@ nav, main, aside{
   width: 15%;
   float: left;
 }
-nav{
-}
-
 nav a, nav ul{
   float: left;
   width: 100%;
